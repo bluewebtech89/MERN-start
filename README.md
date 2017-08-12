@@ -23,7 +23,7 @@ MERN is your One-Stop solution which makes it easy to build universal apps. It m
 
 ## Quickstart
 ```
-git clone https://github.com/ming-soon/mern-starter.git your_app
+git clone https://github.com/goldtimeMentor/MERN-start.git your_app
 cd your_app
 npm install
 npm run start
